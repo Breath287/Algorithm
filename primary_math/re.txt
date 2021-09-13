@@ -1,0 +1,63 @@
+re module in python is used when do applying regular expression.
+there are 9 constants, 12 functions, 1 exception.
+
+All 9 constants are type of int.
+1. re.ingorecase / re.l
+   used when skip case check
+
+2. re.ASCII or re.A
+ \w, \W, \b, \B, \d, \D, \s, \S match ASCII
+
+3. re.DOTALL or re.S
+
+4. re.MULTILINE or re.M
+
+5. re.VERBOSE or re.X
+you can add annotation
+
+6. re.LOCALE or re.L
+
+7. re.UNICODE or re.U
+
+8. re.DEBUG
+
+9. re.TEMPLATE or re.T
+
+conclusion: the first fives are practical and useful, LOCALE and UNICODE are not suggestive to use,
+TEMPLATE and DEBUG are experimental, you should not use
+
+FUNCTIONS:
+1. one match check
+<1> search: check any matches at any points
+<2> match: must start from the fronting
+<3> fullmatch: must totally match with re
+
+2. multiple matches check
+<1> findall: start at any points, return a list
+<2> finditer: start at any points, return a iterator
+
+3. split
+re.split(pattern, string, maxsplit=0, flags=0)
+
+4. substitute
+re.sub(pattern, repl, string, count=0, flags=0)
+
+5. re object
+re.compile(pattern)
+
+6. others
+re.escape(pattern)
+re.purge()
+
+FLAGS:
+A: only match ASCII
+I: ignore case
+S: let '.' match '\n'
+M: let ^$ match fronting and ending in each line
+ex: re.I|re.S
+
+# github pat
+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
+
+
+
