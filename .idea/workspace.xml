@@ -5,25 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="37f17853-8a43-48d2-8994-0cd6a55dc1a5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/spider/basic1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/basic2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/buildUApool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/decode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/reframeUA.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spidering2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/spidering_webpage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/splice_url(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/splice_url(3).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/ua_info.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/url_encodeordecode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/urlencode(2).py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/ways_tosplice_url.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/剑与远征-1page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/剑与远征-2page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/剑与远征-3page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/剑与远征-4page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/剑与远征-5page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/spider/爬虫.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +21,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/spider" />
   </component>
   <component name="ProjectId" id="1x1KvRfHaTzKzEWX2bNQ2v6pkMs" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -53,6 +36,11 @@
   </component>
   <component name="PyDebuggerOptionsProvider">
     <option name="mySupportQtDebugging" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/primary_math" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.proxy_IP">
     <configuration name="exercise2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
