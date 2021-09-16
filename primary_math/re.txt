@@ -56,8 +56,6 @@ S: let '.' match '\n'
 M: let ^$ match fronting and ending in each line
 ex: re.I|re.S
 
-# github pat
-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
 
 
 
