@@ -1,2 +1,0 @@
-{'id': '1001', 'name': 'jieli', 'english': 99.0, 'python': 88.0, 'java': 77.0}
-{'id': '1002', 'name': 'ziyingwang', 'english': 88.0, 'python': 77.0, 'java': 99.0}
